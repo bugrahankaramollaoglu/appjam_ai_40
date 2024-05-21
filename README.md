@@ -1,5 +1,11 @@
 # intellect edge
 
+## !!! giriş bilgileri
+    * a
+    * a
+    * 1
+
+
 ## google AI app jam 2024
 
 * hüseyin tataroğlu
