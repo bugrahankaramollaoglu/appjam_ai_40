@@ -1,0 +1,1 @@
+ /run/media/bugra/depo/appjam_ai_40/.dart_tool/flutter_build/0a5e5f6b01656539bc6c7b1be1ab4857/native_assets.yaml: 
